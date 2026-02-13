@@ -1,2 +1,6 @@
 # BondVoyage
-Capstone 2
+Link: https://bond-voyage.vercel.app/home
+BondVoyage is an AI-Powered collaborativee travel planning system with route mapping and admin-approve itinerary booking. 
+
+# Abstract
+Travel planning is often fragmented, requiring users to navigate multiple applications to organize trips, coordinate with others, and optimize routes. To address these challenges, this study introduces BondVoyage, an integrated planning system designed to streamline group trip planning, route mapping, and an admin-approved booking within a single platform. The system was developed using a descriptive-developmental research design with a quantitative approach, utilizing the Agile Software Development Life Cycle. The system was evaluated by administrators and users of 4B’s Travel and Tours based on the ISO 25010 software quality standards to quantitatively assess its performance and usability.  The quantitative analysis of survey results yielded an overall weighted mean of 4.33, indicating a “Very Satisfactory” rating across all quality characteristics. BondVoyage modernizes travel agency operations while enhancing the traveler experience through collaborative, customized, and admin-approved trip planning. It offers a scalable, customizable solution for travel providers seeking digital transformation, efficiency, and improved customer engagement.
